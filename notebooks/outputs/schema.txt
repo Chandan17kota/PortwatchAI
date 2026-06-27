@@ -1,0 +1,2 @@
+LATEST: event_date,portid,pred_daily_port_calls
+ARIMA: date,portid,actual_portcalls,predicted_portcalls,model
